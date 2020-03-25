@@ -10,4 +10,18 @@ To create an organized and open-source place to store files and allow for develo
 # Licensing 
 MIT License
 
+# Channel Bases
+## 1. collect-and-document
+## 2. general
 
+## 4. Nextgen
+## 5. Test
+## 6. Ventialtors
+## 7. Ergonomics
+## 8. Filter
+## 9. PAPR
+## 10. Manufacture
+## 11. Sterilization
+## 12. Durable PPE
+## 13. Materials on hand home PPE
+## 13. Materials on hand PPE
